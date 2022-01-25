@@ -1,3 +1,3 @@
-# pythonProject
+# pythonProject/GUI
 
 Practice calculator
